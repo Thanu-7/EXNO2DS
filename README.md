@@ -1,6 +1,6 @@
 # EXNO2DS
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+  To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -23,7 +23,6 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
 ```
 import pandas as pd
 df=pd.read_csv("C:\\Users\\admin\\Downloads\\titanic_dataset.csv")
@@ -109,6 +108,6 @@ sns.jointplot(x='Age',y='Fare',data=df,kind='hist')
 ```
 <img width="1387" height="839" alt="image" src="https://github.com/user-attachments/assets/541f46c2-15e6-4924-8f95-179109cf7eaf" />
 
-```
-# RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+##RESULT
+Thus the programs are executed successfully.
+
