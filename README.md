@@ -106,8 +106,7 @@ sns.jointplot(x='Age',y='Fare',data=df,kind='kde')
 ```
 sns.jointplot(x='Age',y='Fare',data=df,kind='hist')
 ```
-<img width="1387" height="839" alt="image" src="https://github.com/user-attachments/assets/541f46c2-15e6-4924-8f95-179109cf7eaf" />
-
-##RESULT
-Thus the programs are executed successfully.
+<img width="1387" height="839" alt="image" src="https://github.com/user-attachments/assets/541f46c2-15e6-4924-8f95-179109cf7eaf" />``` 
+## RESULT
+  Thus the programs are executed successfully.
 
